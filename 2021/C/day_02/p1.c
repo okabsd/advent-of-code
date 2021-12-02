@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(void)
+int
+main(void)
 {
 	char command[16] = { 0 };
 	int distance = 0;
